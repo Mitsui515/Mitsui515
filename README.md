@@ -1,8 +1,6 @@
 ### Hi there 👋, I'm Yining Tan.
 
-![](https://github-readme-stats.vercel.app/api?username=Mitsui515&show_icons=true&theme=transparent)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mitsui515&layout=compact&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=Mitsui515&show_icons=true&theme=transparent) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mitsui515&layout=compact&theme=transparent)
 
 <!--
 **Mitsui515/Mitsui515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
